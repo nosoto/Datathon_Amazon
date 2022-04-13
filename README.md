@@ -14,3 +14,8 @@ A train set has been provided (train_data.csv) to train the model that will gene
 # Files in Repo
 1. EDA : Basic Exploratory Data Analysis
 2. Data Processor: Functions to pre process data (encode, cluster, ourlier management)
+3. Prophet: Full Notebook to get predictions for Prophet with RMSE 366.60
+4. Linear Regression: Full Notebook to get predictions for Linear Regression with RMSE 313.96
+5. Lasso: Full Notebook to get predictions for Lasso with RMSE 278.17
+6. Random Forrest: n/a with RMSE 303.75
+7. Final Submission: Full Notebook to get predictions for XGBoost with RMSE 264.69
