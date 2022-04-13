@@ -10,3 +10,7 @@ One of the most important processes for the team, apart from predicting incoming
 # Goal
 Design a regression algorithm to predict the difference between Earlies_Expand MNR_Exp based on a training dataset holding 5 months of historical values (01/02/2021 - 30/06/2021). The aim will be to create a feasible forecast for EU Delivery Stations. Since this algorithm will be implemented on a daily basis, it should be day of week aware. This means that the seasonality of the two forecasted outputs will affect the behaviour of the network.
 A train set has been provided (train_data.csv) to train the model that will generate the forecast. Moreover, a test set has been added (test.csv) to predict on it and evaluate through submitting the predictions through this platform. The predictions will be for the entire month of July.
+
+# Files in Repo
+1. EDA : Basic Exploratory Data Analysis
+2. Data Processor: Functions to pre process data (encode, cluster, ourlier management)
