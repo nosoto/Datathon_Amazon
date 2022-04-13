@@ -1,5 +1,6 @@
 ## Datathon_Amazon
 Participation in the Amazon Datathon Newset: https://www.kaggle.com/c/newset-datathon-2022
+Final ranking on Kaggle not correct due to a bug in submission. Our Team 'DataTuna' ranked place 12/28 with an RMSE of 275 (best team 152)
 
 # Backlog Prediction: MNR/Earlies Expected
 Inside AMZL Operations exists EU CO Forecast, a team that owns EU short term planning Out for Delivery (OFD) volume forecast. In a few words, the team predicts how many packages will arrive at Delivery Stations, so operation capacity can be adjusted accordingly. To properly deliver the task, the team needs to understand customer behaviour, upstream network connections and capacity, delivery stations capacity and available on the road capacity.
